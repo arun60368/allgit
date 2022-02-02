@@ -1,0 +1,9 @@
+git init
+git add .
+git commit -m "message"
+git remote add origin https://github.com/arun60368/allgit.git
+git push -u origin branch
+git reset head filename
+git reset --soft cid
+git reset --mixed cid
+
